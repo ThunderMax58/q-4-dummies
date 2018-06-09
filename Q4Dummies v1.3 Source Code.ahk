@@ -1,7 +1,7 @@
 ; ============================================================================================
 ; Q For Dummies By ThunderMax (Brandon Ballard)
-  Version := "1.4"
-  DateModified := "12/10/17"
+  Version := "1.3"
+  DateModified := "01/23/2016"
 ; Designed For MechWarrior Online & The Golden Foxes
 ; ============================================================================================
 
